@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+@font-face {
+    font-family: "neverMinds";
+    src: url('../font/NeverMindSlab-Bold.ttf');
+  }
+  @font-face {
+    font-family: "corection";
+    src: url('../font/CorrectionTape.ttf');
+  }
+  h1{
+    font-family: "neverMinds";
+    font-size: 20px;
+  }
+  h2{
+    font-family: "corection";
+    font-size: 100px;
+  }
+  body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+  }
+  h4{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    color: red;
+  }
+  ul{
+    font-family: 'Comforter Brush', cursive;
+    font-size: 20px;
+    color: green;
+  }
