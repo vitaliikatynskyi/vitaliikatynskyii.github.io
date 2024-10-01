@@ -7,7 +7,13 @@
   @font-face {
     font-family: "corection";
     src: url('../font/CorrectionTape.ttf');
+  
   }
+@font-face {
+  font-family: "uncage";
+  src: url('../font/UNCAGE-Medium.otf');
+
+}
   h1{
     font-family: "neverMinds";
     font-size: 20px;
