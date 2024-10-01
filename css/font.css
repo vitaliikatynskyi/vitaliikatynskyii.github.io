@@ -17,12 +17,12 @@
   h1{
     font-family: "neverMinds";
     font-size: 20px;
+    color: rgba(90, 185, 170, 0.533);
   }
   h2{
     font-family: "neverMinds";
     font-size: 1000px;
-
-
+    color: rgb(115, 100, 100);
   }
   body{
     font-family: 'Roboto Condensed', sans-serif;
