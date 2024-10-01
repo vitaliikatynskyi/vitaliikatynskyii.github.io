@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
 
 @font-face {
+  font-family: "uncage-regular";
+  src: url('../font/UNCAGE-Regular.otf');
+
+}
+@font-face {
     font-family: "neverMinds";
     src: url('../font/NeverMindSlab-Bold.ttf');
   }
@@ -16,10 +21,10 @@
 }
   h1{
     font-family: "corection";
-    font-size: 209px;
+    font-size: 20px;
   }
   h2{
-    font-family: "uncage";
+    font-family: "uncage-regular";
     font-size: 100px;
   }
   body{
