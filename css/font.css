@@ -7,22 +7,14 @@
   @font-face {
     font-family: "corection";
     src: url('../font/CorrectionTape.ttf');
-  
   }
-@font-face {
-  font-family: "uncage";
-  src: url('../font/UNCAGE-Medium.otf');
-
-}
   h1{
     font-family: "neverMinds";
     font-size: 20px;
-    color: rgba(90, 185, 170, 0.533);
   }
   h2{
-    font-family: "neverMinds";
-    font-size: 1000px;
-    color: rgb(115, 100, 100);
+    font-family: "corection";
+    font-size: 100px;
   }
   body{
     font-family: 'Roboto Condensed', sans-serif;
